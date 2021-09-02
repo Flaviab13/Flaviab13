@@ -1,12 +1,12 @@
- <h2>  👋 Hola! Soy Flavia. <h2>  
+ <h2>   Hola! Soy Flavia 👋 </h2>  
 
-<img align='right' src="https://giphy.com/embed/TEiaISogqJgrEuocni" width="240" height="240"></img>
+<img align='right' src="https://vectr.com/tmp/cpfP2DZJc/b46tEvThv.svg?width=608&height=558&select=blrcfjSNU" width="240" height="240"></img>
 
   
-<h3> 🐬 Acerca de mí </h3>
+<h3> 👩‍💻 Acerca de mí </h3>
 
 - 🎓 Estudio **Licenciatura en Estadística** en la FCEA .
-- 🎓 En el 2022 comenzaré a retomar la carrera de **Licenciatura en Matematicas** en FCIEN.
+- 🎓 En el 2022 comenzaré a estudiar de **Maestria en Estadística Matemáticas**.
 - 💼 Actualmente estoy en búsqueda laboral activa.
 - 🌎 Sé  **Inglés** básico sigo aprendiendo.
  
@@ -35,13 +35,22 @@
   ![Código de Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
   
-- 📈 
+- 📊
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
 </div>
 
 <br>
-<h3> 🧮 Estadísticas </h3>
+<h3>📉 📈 Estadísticas </h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviab13&show_icons=true&locale=en&layout=compact" alt="flaviab13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviab13&show_icons=true&locale=en" alt="flaviab13" /></p>
+
+<h3> 📩 Para Contactarme:  </h3>
+ 
+<a href="mailto:flaviam1301@gmail.com">
+    <img align="left" alt="GMail" width="22px" src="https://user-images.githubusercontent.com/49066075/131904351-a3f6d7d7-af6f-4573-b501-55e135cee498.png" />
+</a>
 
 
 <!--
