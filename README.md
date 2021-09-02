@@ -6,8 +6,9 @@
 <h3> 👩‍💻 Acerca de mí </h3>
 
 - 🎓  Estudio **Licenciatura en Estadística** en la FCEA . 
-- 🎓  En el 2022 comenzaré a estudiar de **Maestria en Estadística Matemáticas**.
+<!-- - 🎓  En el 2022 comenzaré a estudiar de **Maestria en Estadística Matemáticas**. -->
 - 💼  Actualmente estoy en búsqueda laboral activa.
+
 - 🌎  Sé  **Inglés** básico sigo aprendiendo.
  
  <br>
