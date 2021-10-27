@@ -1,6 +1,6 @@
  <h2>   Hola! Soy Flavia 👋 </h2>  
 
-<img align='right' src="https://vectr.com/tmp/cpfP2DZJc/b46tEvThv.svg?width=608&height=558&select=blrcfjSNU" width="240" height="240"></img>
+<img align='right' src="https://i.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" width="240" height="240"></img>
 
   
 <h3> 👩‍💻 Acerca de mí </h3>
