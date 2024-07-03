@@ -9,7 +9,7 @@
 <!-- - 🎓  En el 2025 comenzaré a estudiar de **Maestria en Estadística Matemáticas**. -->
 - 📊 Mis intereses son: Gráficos estadísticos, Estadística computacional, Análisis de datos y Diseño Web.
 <!-- - 💼  Actualmente estoy en búsqueda laboral activa. -->
-- 💼  Actualmente estoy trabajando como admnistrativa.
+- 💼  Actualmente estoy trabajando como administrativa.
 
 - 🌎  Sé  **Inglés** básico sigo aprendiendo.
  
