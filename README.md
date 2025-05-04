@@ -5,7 +5,7 @@
   
 <h3> 👩‍💻 Acerca de mí </h3>
 
-- 🎓  Estudiante de **Licenciatura en Estadística** en la FCEA . 
+- 🎓  **Licenciatura en Estadística** en la FCEA . 
 <!-- - 🎓  En el 2025 comenzaré a estudiar de **Maestria en Estadística Matemáticas**. -->
 - 📊 Mis intereses son: Gráficos estadísticos, Estadística computacional, Análisis de datos y Diseño Web.
 <!-- - 💼  Actualmente estoy en búsqueda laboral activa. -->
