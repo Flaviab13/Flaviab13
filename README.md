@@ -5,14 +5,12 @@
   
 <h3> 👩‍💻 Acerca de mí </h3>
 
-- 🎓  **Licenciatura en Estadística** en la FCEA . 
+ - 🎓 ** Licenciada en Estadística**  por la FCEA.
 <!-- - 🎓  En el 2025 comenzaré a estudiar de **Maestria en Estadística Matemáticas**. -->
-- 📊 Mis intereses son: Gráficos estadísticos, Estadística computacional, Análisis de datos y Diseño Web.
-<!-- - 💼  Actualmente estoy en búsqueda laboral activa. -->
-- 💼  Actualmente estoy trabajando como administrativa.
-
-- 🌎  Sé  **Inglés** básico sigo aprendiendo.
- 
+- 📊  Mis intereses: gráficos estadísticos, estadística computacional, análisis de datos y diseño web.  
+- 💼 Actualmente me desempeño como administrativa.
+ <!-- - 💼  Actualmente estoy en búsqueda laboral activa. -->
+- 🌎 ** Inglés nivel básico**  (en proceso de aprendizaje). 
  <br>
  
  <h3> 📚 Conocimientos </h3>
@@ -21,7 +19,7 @@
   
 - 💻 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-  ![Ruby(Estadisticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![R(Estadisticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   
 - 🌐 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
