@@ -67,18 +67,19 @@
 <a href="https://github.com/flaviab13" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"/>
 </a>
-
-<!-- Si tienes LinkedIn o portafolio, agrega aquí:
+&nbsp;
+    
+<!-- Agrega tu portafolio cuando esté listo 
+ el portafolio, agrega aquí:
 <a href="https://www.linkedin.com/in/tu_usuario/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
+</a> -->
 
 </div>
 
 
 <!--
-**Flaviab13/Flaviab13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flaviab13/Flaviab13** es un repositorio ✨ especial ✨ porque su `README.md` se muestra en tu perfil de GitHub.
 
 Here are some ideas to get you started:
 
