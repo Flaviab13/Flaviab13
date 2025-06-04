@@ -39,6 +39,8 @@
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
 <br>
 
+---
+
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
