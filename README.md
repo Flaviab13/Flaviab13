@@ -5,10 +5,10 @@
   
 <h3> 👩‍💻 Acerca de mí </h3>
 
- - 🎓 ** Licenciada en Estadística**  por la FCEA.
+ - 🎓 **Licenciada en Estadística**  por la FCEA.
 <!-- - 🎓  En el 2025 comenzaré a estudiar de **Maestria en Estadística Matemáticas**. -->
-- 📊  Mis intereses: gráficos estadísticos, estadística computacional, análisis de datos y diseño web.  
-- 💼 Actualmente me desempeño como administrativa.
+- 📊  Mis intereses: **gráficos estadísticos, estadística computacional, análisis de datos y diseño web**.  
+- 💼 Actualmente me desempeño como **administrativa**.
  <!-- - 💼  Actualmente estoy en búsqueda laboral activa. -->
 - 🌎 **Inglés nivel básico**  (en proceso de aprendizaje). 
  <br>
