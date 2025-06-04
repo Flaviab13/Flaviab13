@@ -10,7 +10,7 @@
 - 📊  Mis intereses: gráficos estadísticos, estadística computacional, análisis de datos y diseño web.  
 - 💼 Actualmente me desempeño como administrativa.
  <!-- - 💼  Actualmente estoy en búsqueda laboral activa. -->
-- 🌎 ** Inglés nivel básico**  (en proceso de aprendizaje). 
+- 🌎 **Inglés nivel básico**  (en proceso de aprendizaje). 
  <br>
  
  <h3> 📚 Conocimientos </h3>
