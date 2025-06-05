@@ -16,28 +16,38 @@
 ### 🚀 Tecnologías y Herramientas
 
 #### Programación y Análisis de Datos
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![R (Estadísticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+![Python](https://img.shields.io/badge/-Python%203-333333?style=flat&logo=python)
+![R (Estadísticas)](https://img.shields.io/badge/-R%20Studio-333333?style=flat&logo=rstudio&logoColor=276DC3)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
+![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly&logoColor=3F4F75)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex&logoColor=008080)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
 ![BD SQLite](https://img.shields.io/badge/-BD%20SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
 ![PSeInt](https://img.shields.io/badge/-PSeInt-333333?style=flat)
 
-#### Desarrollo Web
+#### Desarrollo Web y Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![YAML](https://img.shields.io/badge/-YAML-333333?style=flat&logo=yaml&logoColor=CB171E)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-333333?style=flat&logo=stackoverflow)
+![dganjo](https://img.shields.io/badge/-dganjo-333333?style=flat)
 
-#### Herramientas y Control de Versiones
+#### Herramientas y Sistemas Operativos
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D6)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
-<br>
+![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
 
 ---
 
