@@ -68,7 +68,7 @@
 
 ### 📫 Contacto
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:flaviam1301@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"/>
