@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Sobre mí
 
-- 🎓 **Licenciada en Estadística** por la FCEA.
+- 🎓 **Licenciada en Estadística** de la UDELAR.
 - 📊 Intereses: **gráficos estadísticos, estadística computacional, análisis de datos y diseño web**.
 - 💼 Actualmente me desempeño como **administrativa**.
 - 🌎 **Inglés nivel básico** (en proceso de aprendizaje).
